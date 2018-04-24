@@ -5,10 +5,10 @@ Project Detail: This is a web-based project. Here, user can search their nearest
 
 Technology Used:
 
-Front End: JSP, CSS, JS, Ajax, Bootstrap.
+>> Front End: JSP, CSS, JS, Ajax, Bootstrap.
 
-Back End: Java Platform, Enterprise Edition (Java EE)
+>> Back End: Java Platform, Enterprise Edition (Java EE)
 
-Framework: Spring Boot
+>> Framework: Spring Boot
 
-Database: MySQL
+>> Database: MySQL

@@ -1,8 +1,7 @@
 # SMS
 
 Project Detail: 
-This is a web-based project. Here, user can search their nearest barbershop location. They can register their profile and request to get service like hair cutting, spa etc. User get notification 10 minute before his service via Email.  User can also give review to the barber. Barber shop owner review his employees by analyzing weekly or monthly Hi-chart report.
-
+This is a web-based spring boot project. 
 
 Technology Used:
 

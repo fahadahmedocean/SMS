@@ -8,7 +8,7 @@ import org.springframework.stereotype.Service;
 import javax.mail.internet.MimeMessage;
 
 /**
- * Created by habib on 1/7/18.
+ * Created by fahad on 1/7/18.
  */
 
 @Service
